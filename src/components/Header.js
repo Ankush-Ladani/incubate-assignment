@@ -10,7 +10,7 @@ const Header = () => {
             data-testid="dummyLogo"
             src="https://blog.incubyte.co/images/logo.png"
             class="w-32"
-            alt=""
+            alt="logo"
           />
         </a>
       </div>
