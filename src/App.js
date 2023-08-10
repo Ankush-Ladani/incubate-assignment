@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import ImpThings from "./components/ImpThings";
 import Introduction from "./components/Introduction";
+import Sharing from "./components/Sharing";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <HeroSection />
       <Introduction />
       <ImpThings />
+      <Sharing />
     </div>
   );
 }
