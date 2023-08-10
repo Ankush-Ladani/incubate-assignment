@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
+import ImpThings from "./components/ImpThings";
 import Introduction from "./components/Introduction";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <HeroSection />
       <Introduction />
+      <ImpThings />
     </div>
   );
 }
