@@ -16,8 +16,8 @@ const Header = () => {
       </div>
       <div className="flex gap-x-4 items-cente">
         <img src={Logo} className="w-8" alt="" />
-        <span className="bg-blue-900 px-7 font-semibold rounded-full py-2 text-white">
-          <button>
+        <span className="bg-blue-900 px-7 font-semibold rounded-full py-2 text-white transition ease-in-out hover:scale-110">
+          <button className="">
             <a href="https://www.incubyte.co/lets-get-started">LET'S TALK</a>
           </button>
         </span>
